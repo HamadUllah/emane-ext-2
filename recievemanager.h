@@ -1,5 +1,5 @@
-#ifndef EMANEMODELSTDMARECEIVEMANAGER_HEADER_
-#define EMANEMODELSTDMARECEIVEMANAGER_HEADER_
+#ifndef EMANEMODELSHBRECEIVEMANAGER_HEADER_
+#define EMANEMODELSHBRECEIVEMANAGER_HEADER_
 
 #include "emane/types.h"
 #include "emane/upstreampacket.h"
@@ -21,7 +21,7 @@ namespace EMANE
 {
   namespace Models
   {
-    namespace TDMA
+    namespace HeavyBall
     {
       /**
        * @class ReceiveManager
